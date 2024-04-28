@@ -202,7 +202,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Andrew_Custom:QFN-48_EP_7x7_Pitch0.5mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -231,7 +231,7 @@
 		)
 		(symbol "TLE9869_1_0"
 			(pin power_in line
-				(at -12.7 -1.27 0)
+				(at -12.7 -44.45 0)
 				(length 2.54)
 				(name "SL"
 					(effects
@@ -249,7 +249,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 -3.81 0)
+				(at -12.7 -50.8 0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -267,7 +267,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 -6.35 0)
+				(at -12.7 -39.37 0)
 				(length 2.54)
 				(name "GL2"
 					(effects
@@ -285,7 +285,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 -8.89 0)
+				(at -12.7 -41.91 0)
 				(length 2.54)
 				(name "GL1"
 					(effects
@@ -303,7 +303,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -11.43 0)
+				(at -12.7 -25.4 0)
 				(length 2.54)
 				(name "MON"
 					(effects
@@ -321,7 +321,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -13.97 0)
+				(at 15.24 -1.27 180)
 				(length 2.54)
 				(name "P1.0"
 					(effects
@@ -339,7 +339,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -16.51 0)
+				(at 15.24 -3.81 180)
 				(length 2.54)
 				(name "P1.1"
 					(effects
@@ -357,7 +357,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -19.05 0)
+				(at 15.24 -6.35 180)
 				(length 2.54)
 				(name "P1.2"
 					(effects
@@ -375,7 +375,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -21.59 0)
+				(at 15.24 3.81 180)
 				(length 2.54)
 				(name "P0.4"
 					(effects
@@ -393,7 +393,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 -24.13 0)
+				(at -12.7 -53.34 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -411,7 +411,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 19.05 0)
+				(at -12.7 12.7 0)
 				(length 2.54)
 				(name "VCP"
 					(effects
@@ -429,7 +429,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -26.67 0)
+				(at 15.24 19.05 180)
 				(length 2.54)
 				(name "TMS"
 					(effects
@@ -447,7 +447,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -29.21 0)
+				(at 15.24 13.97 180)
 				(length 2.54)
 				(name "P0.0"
 					(effects
@@ -465,7 +465,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -31.75 0)
+				(at 15.24 22.86 180)
 				(length 2.54)
 				(name "RESET"
 					(effects
@@ -483,7 +483,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -34.29 0)
+				(at 15.24 11.43 180)
 				(length 2.54)
 				(name "P0.1"
 					(effects
@@ -501,7 +501,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -36.83 0)
+				(at 15.24 6.35 180)
 				(length 2.54)
 				(name "P0.3"
 					(effects
@@ -519,7 +519,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 21.59 180)
+				(at 15.24 8.89 180)
 				(length 2.54)
 				(name "P0.2"
 					(effects
@@ -537,7 +537,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 19.05 180)
+				(at 15.24 -8.89 180)
 				(length 2.54)
 				(name "P1.3"
 					(effects
@@ -555,7 +555,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 16.51 180)
+				(at 15.24 -11.43 180)
 				(length 2.54)
 				(name "P1.4"
 					(effects
@@ -573,7 +573,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 13.97 180)
+				(at -12.7 -55.88 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -591,7 +591,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 11.43 180)
+				(at 15.24 -35.56 180)
 				(length 2.54)
 				(name "P2.0/XTAL1"
 					(effects
@@ -609,7 +609,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 16.51 0)
+				(at -12.7 -10.16 0)
 				(length 2.54)
 				(name "CP2H"
 					(effects
@@ -627,7 +627,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 8.89 180)
+				(at 15.24 -38.1 180)
 				(length 2.54)
 				(name "P2.2/XTAL2"
 					(effects
@@ -645,7 +645,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 6.35 180)
+				(at 15.24 -21.59 180)
 				(length 2.54)
 				(name "P2.5"
 					(effects
@@ -663,7 +663,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 3.81 180)
+				(at 15.24 -19.05 180)
 				(length 2.54)
 				(name "P2.4"
 					(effects
@@ -681,7 +681,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 1.27 180)
+				(at 15.24 -48.26 180)
 				(length 2.54)
 				(name "GND_REF"
 					(effects
@@ -699,7 +699,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -1.27 180)
+				(at 15.24 -43.18 180)
 				(length 2.54)
 				(name "VAREF"
 					(effects
@@ -717,7 +717,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -3.81 180)
+				(at 15.24 -16.51 180)
 				(length 2.54)
 				(name "P2.3"
 					(effects
@@ -735,7 +735,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -6.35 180)
+				(at 15.24 -30.48 180)
 				(length 2.54)
 				(name "OP2"
 					(effects
@@ -753,7 +753,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -8.89 180)
+				(at 15.24 -27.94 180)
 				(length 2.54)
 				(name "OP1"
 					(effects
@@ -771,7 +771,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -11.43 180)
+				(at 15.24 -57.15 180)
 				(length 2.54)
 				(name "VDDC"
 					(effects
@@ -789,7 +789,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -13.97 180)
+				(at -12.7 -58.42 0)
 				(length 2.54)
 				(name "GND_ANALOG"
 					(effects
@@ -807,7 +807,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 13.97 0)
+				(at -12.7 -12.7 0)
 				(length 2.54)
 				(name "CP2L"
 					(effects
@@ -825,7 +825,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -16.51 180)
+				(at 15.24 -53.34 180)
 				(length 2.54)
 				(name "VDDP"
 					(effects
@@ -843,7 +843,7 @@
 				)
 			)
 			(pin power_out line
-				(at 12.7 -19.05 180)
+				(at 15.24 -60.96 180)
 				(length 2.54)
 				(name "VDDEXT"
 					(effects
@@ -861,7 +861,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -21.59 180)
+				(at -12.7 -21.59 0)
 				(length 2.54)
 				(name "GND_LIN"
 					(effects
@@ -879,7 +879,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -24.13 180)
+				(at -12.7 -19.05 0)
 				(length 2.54)
 				(name "LIN"
 					(effects
@@ -897,7 +897,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -26.67 180)
+				(at -12.7 2.54 0)
 				(length 2.54)
 				(name "VDH"
 					(effects
@@ -915,7 +915,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -29.21 180)
+				(at -12.7 22.86 0)
 				(length 2.54)
 				(name "VS"
 					(effects
@@ -933,7 +933,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -31.75 180)
+				(at -12.7 17.78 0)
 				(length 2.54)
 				(name "VBAT_SENSE"
 					(effects
@@ -951,7 +951,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -34.29 180)
+				(at -12.7 8.89 0)
 				(length 2.54)
 				(name "VSD"
 					(effects
@@ -969,7 +969,7 @@
 				)
 			)
 			(pin power_in line
-				(at 12.7 -36.83 180)
+				(at -12.7 -6.35 0)
 				(length 2.54)
 				(name "CP1H"
 					(effects
@@ -987,7 +987,7 @@
 				)
 			)
 			(pin no_connect line
-				(at -12.7 11.43 0)
+				(at -12.7 -48.26 0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -1005,7 +1005,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 8.89 0)
+				(at -12.7 -36.83 0)
 				(length 2.54)
 				(name "SH2"
 					(effects
@@ -1023,7 +1023,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 6.35 0)
+				(at -12.7 -29.21 0)
 				(length 2.54)
 				(name "GH2"
 					(effects
@@ -1041,7 +1041,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 3.81 0)
+				(at -12.7 -34.29 0)
 				(length 2.54)
 				(name "SH1"
 					(effects
@@ -1059,7 +1059,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 1.27 0)
+				(at -12.7 -31.75 0)
 				(length 2.54)
 				(name "GH1"
 					(effects
@@ -1077,7 +1077,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -40.64 90)
+				(at -12.7 -60.96 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1098,7 +1098,7 @@
 		(symbol "TLE9869_1_1"
 			(text_box "TLE9869"
 				(at -10.16 25.4 0)
-				(size 20.32 -63.5)
+				(size 22.86 -88.9)
 				(stroke
 					(width 0)
 					(type default)
@@ -1114,7 +1114,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 21.59 0)
+				(at -12.7 -3.81 0)
 				(length 2.54)
 				(name "CP1L"
 					(effects
